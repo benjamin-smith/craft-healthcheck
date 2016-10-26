@@ -8,6 +8,7 @@
 			"homepage": "https://www.benjaminsmith.com/"
 		}
 	],
+    "license": "MIT",
 	"require": {
 		"composer/installers": "~1.0"
 	}

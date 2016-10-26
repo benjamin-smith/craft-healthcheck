@@ -18,13 +18,13 @@ composer require benjamin-smith/craftcms-healthcheck
 
 ## Configuration
 
-The default configuration file explains the various options that are available, and uses sensible defaults that do not necessarily require modification.
+The [default configuration file](https://github.com/benjamin-smith/craftcms-healthcheck/blob/master/config.php) explains the various options that are available, and uses sensible defaults that do not necessarily require modification.
 
 To customize the config, copy that file to `craft/config/healthcheck.php` and modify as needed.
 
 ## Usage
 
-Once installed and configured, your health check URL should be responding to requests as expected. If the site goes offline for any reason, a non 200 HTTP status code should be returned, which your load balancer should take as a signal to remove this site/server from the load balancer rotation.
+Once installed and configured, your health check URL should be responding to requests as expected (the default url is http://mydomain.com/health-check). If the site goes offline for any reason, a non 200 HTTP status code should be returned, which your load balancer should take as a signal to remove this site/server from the load balancer rotation.
 
 ## Roadmap
 

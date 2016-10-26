@@ -1,7 +1,7 @@
 [
     {
         "version": "1.0.0",
-        "downloadUrl": "https://github.com/benjamin-smith/healthcheck/archive/master.zip",
+        "downloadUrl": "https://github.com/benjamin-smith/craft-healthcheck/archive/master.zip",
         "date": "2016-10-25T13:19:49.734Z",
         "notes": [
             "[Added] Initial release"

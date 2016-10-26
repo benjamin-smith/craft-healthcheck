@@ -29,12 +29,12 @@ class HealthCheckPlugin extends BasePlugin
 
     public function getDocumentationUrl()
     {
-        return 'https://github.com/benjamin-smith/craftcms-healthcheck/blob/master/README.md';
+        return 'https://github.com/benjamin-smith/craft-healthcheck/blob/master/README.md';
     }
 
     public function getReleaseFeedUrl()
     {
-        return 'https://raw.githubusercontent.com/benjamin-smith/craftcms-healthcheck/master/releases.json';
+        return 'https://raw.githubusercontent.com/benjamin-smith/craft-healthcheck/master/releases.json';
     }
 
     public function getVersion()

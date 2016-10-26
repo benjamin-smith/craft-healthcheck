@@ -1,5 +1,5 @@
 {
-	"name": "benjamin-smith/craftcms-healthcheck",
+	"name": "benjamin-smith/craft-healthcheck",
 	"description": "Adds a health check route to your site to indicate that Craft is health and ready to accept web traffic from a load balancer.",
 	"type": "craft-plugin",
 	"authors": [

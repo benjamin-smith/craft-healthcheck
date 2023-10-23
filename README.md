@@ -1,6 +1,10 @@
-# Health Check plugin for Craft CMS
+# Health Check plugin for Craft CMS v2
 
 Adds a health check route to your site to indicate that Craft is healthy and ready to accept web traffic from a load balancer.
+
+### DEPRECATED
+
+*This plugin is for Craft CMS v2, which is no longer supported. See https://craftcms.com/knowledge-base/supported-versions*
 
 ## Installation
 
